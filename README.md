@@ -2,7 +2,6 @@
 
 ![midnight-purple](https://github-readme-stats.vercel.app/api?username=santiago-leticia&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
-![midnight-purple_repo](https://github-readme-stats.vercel.app/api/pin/?username=santiago-leticia&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&hide_progress=true,seconds=86400&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple)
