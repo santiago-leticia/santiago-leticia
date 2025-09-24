@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ![midnight-purple](https://github-readme-stats.vercel.app/api?username=santiago-leticia&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
