@@ -1,10 +1,9 @@
 
 
-![midnight-purple](https://github-readme-stats.vercel.app/api?username=santiago-leticia&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+[midnight-purple](https://github-readme-stats.vercel.app/api?username=santiago-leticia&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&hide_progress=true,seconds=86400&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&hide_progress=true,seconds=86400&theme=midnight-purple)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple)
 <!--
 **santiago-leticia/santiago-leticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
