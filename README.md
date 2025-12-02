@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&theme=midnight-purple)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&theme=midnight-purple&cache_seconds=10)
 ![midnight-purple](https://github-readme-stats.vercel.app/api?username=santiago-leticia&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&hide_progress=true,seconds=86400&theme=midnight-purple)
