@@ -7,12 +7,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-<div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
-</a>
-</div>
-
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=santiago-leticia&show_icons=true&theme=midnight-purple"
+       height="170" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple"
+       height="170" />
+</p>
 
 
 <!--
