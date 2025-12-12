@@ -22,8 +22,10 @@
   <img 
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=pie&theme=midnight-purple"
        height="200">
+</p>
+<p align="center">
   <img 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=pie&theme=midnight-purple" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple"
        height="200">
 </p>
 
