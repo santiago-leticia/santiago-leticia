@@ -1,5 +1,4 @@
 ## Hi there 👋
-<!-- CONTATOS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/leticia-santiago-6b9219354">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -11,13 +10,12 @@
 
 ---
 
-<!-- ESTATÍSTICAS -->
 <p align="center">
   <img 
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=santiago-leticia&show_icons=true&theme=midnight-purple" 
        height="180">
 </p>
----
+
 <p align="center">
   <img 
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=pie&theme=midnight-purple"
