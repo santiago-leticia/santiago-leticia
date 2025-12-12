@@ -1,5 +1,6 @@
 ## Hi there 👋
-<p align="left">
+<!-- CONTATOS -->
+<p align="center">
   <a href="https://www.linkedin.com/in/leticia-santiago-6b9219354">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -8,10 +9,20 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=santiago-leticia&show_icons=true&theme=midnight-purple)
+---
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple)
+<!-- ESTATÍSTICAS -->
+<p align="center">
+  <img 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=santiago-leticia&show_icons=true&theme=midnight-purple" 
+       height="180">
+</p>
 
+<p align="center">
+  <img 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple" 
+       height="180">
+</p>
 
 <!--
 **santiago-leticia/santiago-leticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
