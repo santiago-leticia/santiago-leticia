@@ -1,5 +1,5 @@
 ## Hi there 👋
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](Link do Linkedin aqui)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leticia-santiago-6b9219354)
 
 <!--
 **santiago-leticia/santiago-leticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
