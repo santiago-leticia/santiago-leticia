@@ -23,11 +23,8 @@
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=pie&theme=midnight-purple"
        height="200">
 </p>
-<p align="center">
-  <img 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut-vertical&theme=midnight-purple"
-       height="250">
-</p>
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut-vertical&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
