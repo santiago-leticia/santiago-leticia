@@ -25,9 +25,10 @@
 </p>
 <p align="center">
   <img 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple"
-       height="200">
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut-vertical&theme=midnight-purple"
+       height="250">
 </p>
+
 
 
 
