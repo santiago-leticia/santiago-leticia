@@ -10,6 +10,9 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=santiago-leticia&show_icons=true&theme=midnight-purple)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=donut&theme=midnight-purple)
+
+
 <!--
 **santiago-leticia/santiago-leticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
