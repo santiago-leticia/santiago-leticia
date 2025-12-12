@@ -27,6 +27,20 @@
        height="200">
 </p>
 
+---
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=santiago-leticia&show_icons=true&theme=midnight-purple" 
+       height="180">
+</p>
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=pie&theme=midnight-purple"
+       height="200">
+</p>
+
 <!--
 **santiago-leticia/santiago-leticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
