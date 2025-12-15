@@ -1,4 +1,7 @@
-## 🄿🄴🅁🄵🄸🄻 🄿🅁🄾🄵🄸🅂🅂🄸🄾🄽🄰🄻 🄳🄴 🄻🄴🅃🄸🄲🄸🄰 🅂🄰🄽🅃🄸🄰🄶🄾 🄴 🅂🄸🄻🅅🄰
+## 𝓟𝓮𝓻𝓯𝓲𝓵 𝓟𝓻𝓸𝓯𝓲𝓼𝓼𝓲𝓸𝓷𝓪𝓵 𝓭𝓮 𝓛𝓮𝓽𝓲́𝓬𝓲𝓪 𝓢𝓪𝓷𝓽𝓲𝓪𝓰𝓸 𝓮 𝓢𝓲𝓵𝓿𝓪
+Sou Letícia Santiago e Silva, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+
+Estou sempre disposta a obter novos conhecimentos e experiências, buscando aprimoramento contínuo tanto na minha jornada profissional quanto acadêmica.
 <p align="center">
   <a href="https://www.linkedin.com/in/leticia-santiago-6b9219354">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
