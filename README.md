@@ -40,9 +40,10 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-leticia&layout=pie&theme=midnight-purple"
-    height="200"
+    height="300"
   />
 </p>
+
 
 
 <!--
