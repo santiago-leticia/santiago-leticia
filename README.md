@@ -12,10 +12,12 @@ Estou sempre disposta a obter novos conhecimentos e experiências, buscando apri
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+<p align="center">
+ 
 ##𝓜𝓲𝓷𝓱𝓪𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 𝓐́𝓻𝓮𝓪𝓼 𝓭𝓮 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓼𝓮
 
 As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
-
+</p>
 - Java
 - React
 - HTML
