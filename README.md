@@ -23,10 +23,11 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4db359c9-70ed-4a57-ba9e-368156b05563" /> Java
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e3638034-7300-4f0d-846d-d6bc9b1008b3" /> React
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e5cb1fdc-160b-42f8-8824-d23e721080e8" /> HTML
-- C#
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1fb121b6-1f99-4d2b-a430-8a7a47842f12" /> C#
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6560454f-8b87-4357-b396-84b844f153b3" /> Python
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0da025f0-a8d4-443f-b53e-c5b646deec6a" /> JavaScript
-- Cloud Computing (Computação em Nuvem)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aef394bb-8f9b-44c9-9055-8b2e96424988" /> Cloud Computing (Computação em Nuvem)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e396c865-91eb-4129-9581-f3b0f8f06c75" /> MySQL - sqldeveloper
 
 ---
 
