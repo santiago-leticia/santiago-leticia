@@ -20,12 +20,13 @@ Estou sempre disposta a obter novos conhecimentos e experiências, buscando apri
 
 As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
-- Java
+- ♨️ Java
 - React
-- HTML
+- 🌐 HTML
 - C#
-- Python
-- JavaScript
+- 🐍 Python
+- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0da025f0-a8d4-443f-b53e-c5b646deec6a" />
+ JavaScript
 - Cloud Computing (Computação em Nuvem)
 
 ---
