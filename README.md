@@ -25,7 +25,7 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 - 🌐 HTML
 - C#
 - 🐍 Python
-- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0da025f0-a8d4-443f-b53e-c5b646deec6a" />
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0da025f0-a8d4-443f-b53e-c5b646deec6a" />
  JavaScript
 - Cloud Computing (Computação em Nuvem)
 
