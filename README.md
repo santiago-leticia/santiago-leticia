@@ -46,8 +46,10 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 </p>
 
 ##
+<h1>
+   𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
+</h1>
 
- 𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
  
 ##
 
