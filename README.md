@@ -50,8 +50,11 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
    𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
 </h2>
 
-<a href="https://github.com/santiago-leticia/certificado.git">
-  <button style="
+
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://github.com/santiago-leticia/certificado.git" style="text-decoration: none;">
+    <button style="
       background-color: #8A2BE2; 
       color: white; 
       padding: 15px 32px; 
@@ -61,11 +64,10 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
       cursor: pointer;
       transition: 0.3s;
       font-weight: bold;">
-    Certificado
-  </button>
-</a>
-
-
+      Certificado
+    </button>
+  </a>
+</div>
 
 
 
