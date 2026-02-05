@@ -47,9 +47,7 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
 ---
 
-<p style="font-size: 150px; font-weight: bold; align="center"">
-  ## 𝓬𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
-</p>
+## 𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
 
 
 <!--
