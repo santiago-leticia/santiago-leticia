@@ -14,7 +14,7 @@ Estou sempre disposta a obter novos conhecimentos e experiências, buscando apri
   </a>
 </p>
 
----
+##
 
 ## 𝓜𝓲𝓷𝓱𝓪𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 𝓐́𝓻𝓮𝓪𝓼 𝓭𝓮 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓼𝓮
 
@@ -29,7 +29,7 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aef394bb-8f9b-44c9-9055-8b2e96424988" /> Cloud Computing (Computação em Nuvem)
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e396c865-91eb-4129-9581-f3b0f8f06c75" /> MySQL - sqldeveloper
 
----
+##
 
 <p align="center">
   <img 
@@ -45,8 +45,8 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
   />
 </p>
 
----
 ##
+
 ## 𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
 
 
