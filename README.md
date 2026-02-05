@@ -51,21 +51,9 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 </h2>
 
 
-
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://github.com/santiago-leticia/certificado.git" style="text-decoration: none;">
-    <button style="
-      background-color: #8A2BE2; 
-      color: white; 
-      padding: 15px 32px; 
-      font-size: 18px; 
-      border: none; 
-      border-radius: 8px; 
-      cursor: pointer;
-      transition: 0.3s;
-      font-weight: bold;">
-      Certificado
-    </button>
+<div align="center">
+  <a href="https://github.com/santiago-leticia/certificado.git">
+    <img src="https://img.shields.io/badge/Certificado-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Certificado">
   </a>
 </div>
 
