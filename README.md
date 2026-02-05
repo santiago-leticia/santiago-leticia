@@ -1,4 +1,4 @@
-## 𝓟𝓮𝓻𝓯𝓲𝓵 𝓟𝓻𝓸𝓯𝓲𝓼𝓼𝓲𝓸𝓷𝓪𝓵 𝓭𝓮 𝓛𝓮𝓽𝓲́𝓬𝓲𝓪 𝓢𝓪𝓷𝓽𝓲𝓪𝓰𝓸 𝓮 𝓢𝓲𝓵𝓿𝓪
+<h1> 𝓟𝓮𝓻𝓯𝓲𝓵 𝓟𝓻𝓸𝓯𝓲𝓼𝓼𝓲𝓸𝓷𝓪𝓵 𝓭𝓮 𝓛𝓮𝓽𝓲́𝓬𝓲𝓪 𝓢𝓪𝓷𝓽𝓲𝓪𝓰𝓸 𝓮 𝓢𝓲𝓵𝓿𝓪 </h1>
 
 <p align="center">
 Sou Letícia Santiago e Silva, e atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na FIAP.<br/>
@@ -16,7 +16,7 @@ Estou sempre disposta a obter novos conhecimentos e experiências, buscando apri
 
 ##
 
-## 𝓜𝓲𝓷𝓱𝓪𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 𝓐́𝓻𝓮𝓪𝓼 𝓭𝓮 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓼𝓮
+<h2> 𝓜𝓲𝓷𝓱𝓪𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 𝓐́𝓻𝓮𝓪𝓼 𝓭𝓮 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓼𝓮 </h2>
 
 As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
@@ -49,7 +49,7 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 <h1>
    𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
 </h1>
-##
+
 
 
 <!--
