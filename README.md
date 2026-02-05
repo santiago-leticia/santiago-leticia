@@ -44,7 +44,9 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
     height="300"
   />
 </p>
-##𝓬𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
+<p font-size:24px>
+  ##𝓬𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
+</p>
 
 
 
