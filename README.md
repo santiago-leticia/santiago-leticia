@@ -53,7 +53,7 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
 <div align="center">
   <a href="https://github.com/santiago-leticia/certificado.git">
-    <img src="https://img.shields.io/badge/Certificado-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Certificado">
+    <img src="https://img.shields.io/badge/Certificado-8A2BE2?style=for-the-badge&logo=github&logoColor=white" width="250px">
   </a>
 </div>
 
