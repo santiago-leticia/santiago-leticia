@@ -16,7 +16,7 @@ Estou sempre disposta a obter novos conhecimentos e experiências, buscando apri
 
 ##
 
-<h2> 𝓜𝓲𝓷𝓱𝓪𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 𝓐́𝓻𝓮𝓪𝓼 𝓭𝓮 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓼𝓮 </h2>
+<h2 align="center"> 𝓜𝓲𝓷𝓱𝓪𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 𝓐́𝓻𝓮𝓪𝓼 𝓭𝓮 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓼𝓮 </h2>
 
 As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
@@ -46,7 +46,7 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 </p>
 
 ##
-<h2>
+<h2 align="center">
    𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
 </h2>
 
