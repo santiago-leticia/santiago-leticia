@@ -50,6 +50,12 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
    𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
 </h2>
 
+<a href="https://github.com/santiago-leticia/certificado.git">
+  <button>
+    Certificado
+  </button>
+</a>
+
 
 
 
