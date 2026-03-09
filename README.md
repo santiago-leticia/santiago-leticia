@@ -29,6 +29,9 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0da025f0-a8d4-443f-b53e-c5b646deec6a" /> JavaScript
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aef394bb-8f9b-44c9-9055-8b2e96424988" /> Cloud Computing (Computação em Nuvem)
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e396c865-91eb-4129-9581-f3b0f8f06c75" /> MySQL - sqldeveloper
+- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/869d3832-279a-463c-b04c-6be736d27eb3" />
+typescript
+
 
 ##
 
