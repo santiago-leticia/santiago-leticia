@@ -33,7 +33,9 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
 
 ##
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&layout=compact&theme=midnight-purple" alt="Linguagens mais usadas" />
+</p>
 ##
 <h2 align="center">
    𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
