@@ -33,11 +33,33 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
 
 ##
-
-[![](https://raw.githubusercontent.com/santiago-leticia/santiago-leticia/main/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/santiago-leticia)
-[![](https://raw.githubusercontent.com/santiago-leticia/santiago-leticia/main/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/santiago-leticia) [![](https://raw.githubusercontent.com/santiago-leticia/santiago-leticia/main/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/santiago-leticia)
-[![](https://raw.githubusercontent.com/santiago-leticia/santiago-leticia/main/profile-summary-card-output/nightowl/3-stats.svg)](https://github.com/santiago-leticia) [![](https://raw.githubusercontent.com/santiago-leticia/santiago-leticia/main/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/santiago-leticia)
-
+on:
+  schedule:
+    - cron: '0 */12 * * *' # a cada 12 horas
+  push:
+    branches:
+      - master
+      - main
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@v3
+      with:
+        token: ${{ secrets.USER_TOKEN }}
+    - name: Update README.md
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add .
+        git commit -m "Update README"
+        git push
+        fi
 
 ##
 <h2 align="center">
