@@ -34,7 +34,7 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&layout=compact&theme=midnight-purple" alt="Linguagens mais usadas" />
+  <img src="https://metrics.lecoq.io/santiago-leticia?template=classic&base=accessibility&languages=1&languages_details=limit-languages" alt="Metrics Stats" />
 </p>
 ##
 <h2 align="center">
@@ -42,9 +42,6 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 </h2>
 
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/santiago-leticia?template=classic&base=accessibility&languages=1&languages_details=limit-languages" alt="Metrics Stats" />
-</p>
 
 
 
