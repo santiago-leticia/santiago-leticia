@@ -33,34 +33,7 @@ As linguagens e tecnologias que mais me interessam e que busco aprofundar são:
 
 
 ##
-on:
-  schedule:
-    - cron: '0 */12 * * *' # a cada 12 horas
-  push:
-    branches:
-      - master
-      - main
-jobs:
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v3
-      with:
-        token: ${{ secrets.USER_TOKEN }}
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README"
-        git push
-        fi
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-leticia&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <h2 align="center">
    𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓭𝓸
